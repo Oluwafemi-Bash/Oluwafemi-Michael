@@ -1,2 +1,1 @@
-# Oluwafemi-Michael
-Hands-On Projects
+# Machine Learning Projects
